@@ -1,0 +1,3 @@
+/home/wh/arm/boot/bootloader/cmake-build-debug/CMakeFiles/bootloader.elf.dir
+/home/wh/arm/boot/bootloader/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wh/arm/boot/bootloader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
